@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 
 ## About Me
-I have been an Android Developer for the past 10 Years(+), developing flexible and detail-oriented Applications for the Android Platform Mobile, Conceptualizing application solutions with the latest technologies, design theory, and a large dose of creativity. I am committed to viable and easily functional app solutions. I develop Android Native software that interacts with android and other IOT devices with POS devices and Bluetooth-connected devices as examples.
+I have been an Android Developer for the past 10 Years(+). Since period dev mobile Android in Java with Android Studio, and now 2 years ago began Kotlin and 1 year in Jetpack Compose, I continu developing flexible and detail-oriented Applications for the Android Platform Mobile, Conceptualizing application solutions with the latest technologies, design theory, and a large dose of creativity. I am committed to viable and easily functional app solutions. I work Android Native software of many companies in Quebec Montreal: Radio-canada, Quebecor, Desjardins, Summit-Tech as examples.
 
 
 ## 🌐 Socials:
